@@ -1,0 +1,139 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+.header h1{
+    font-size: 60px;
+    color: #ffa500;
+    text-align: center;
+    background-image: url(images/shape/7.png);
+    padding: 10px;
+}
+h2{
+    font-size: 50px;
+    color:#636363;
+}
+h3{
+    font-size: 30px;
+    color: #636363;
+}
+
+p{
+    color: #696969;
+    font-size: 17px;
+    padding-bottom: 50px;
+}
+.orange-color{
+    color: #ffa500;
+}
+.common-div{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.skip-diet{
+    background-image: url(images/shape/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(#FB924A, tomato);
+    padding: 15px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 50px;
+}
+.about-me{
+    background-image: url(images/shape/7.png);
+    background-repeat: repeat;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.recipies-section h2{
+    text-align: center;
+}
+.recipies-section p{
+    text-align: center;
+}
+.recip-section{
+    background-image: url(images/shape/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+.recip{
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.recip-item{
+    width: 27.3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 20px 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
+.recip-item img{
+    width: 100%;
+    border-radius: 25px;
+}
+.recip-item h3{
+    color: black;
+}
+.follow{
+    display: flex;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 25px;
+    padding: 50px 50px 30px 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+.followers h2{
+    font-weight: 700;
+    color: black;
+    margin: 0;
+}
+.followers{
+    width: 30%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    padding-left: 100px;
+}
+.service-section{
+    background-image:url(images/shape/Frame\ 58.jpg);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    padding-top: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 20px cyan;
+}
+.service-section h2{
+    text-align: center;
+}
+.service-section p{
+    text-align: center;
+}
+footer{
+    background-color: rgb(27, 25, 25);
+}
+footer p{
+    text-align: center;
+    padding-bottom: 100px;
+}
+footer h4{
+    font-size: 25px;
+    color: #636363;
+    text-align: center;
+    padding-top: 30px;
+}
